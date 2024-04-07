@@ -10,7 +10,7 @@ Date 6/4/2024
 A computer with a bash terminal and node installed.
 Access to the internet.
 Installation Process
-Clone this repository using
+Clone this repository using git@github.com:Reagan-marera/CODE-CHALLENGE-3.git
 
   git clone 
 or by downloading a ZIP file of the code.
